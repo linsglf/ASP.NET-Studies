@@ -6,7 +6,7 @@ using WebApi.Service.FuncionarioService;
 
 namespace WebApi.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/funcionarios")]
     [ApiController]
     public class FuncionarioController : ControllerBase
     {
